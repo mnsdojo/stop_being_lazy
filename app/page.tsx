@@ -78,9 +78,7 @@ export default function Home() {
             onClick={revealSecret}
             className="transition-all duration-300 ease-in-out transform hover:scale-105"
           >
-            {showSecret
-              ? "Hide the obvious"
-              : "Reveal the mystery (if you dare) 😱"}
+            {showSecret ? "Hide the obvious" : "Reveal (if you dare) 😱"}
           </Button>
           {showSecret && (
             <div className="mt-4 p-4 bg-gray-100 rounded-lg">
