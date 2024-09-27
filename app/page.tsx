@@ -47,9 +47,10 @@ export default function Home() {
         <h1 className="text-4xl md:text-5xl mb-2 tracking-tight font-extrabold text-red-600">
           Stop Being Lazy!
         </h1>
-        <p className="mb-2 text-gray-700">I know that's un🐾sible </p> ( ≧ᗜ≦)
+        <p className="mb-2 text-gray-700">I know that&apos;s un🐾sible</p> (
+        ≧ᗜ≦)
         <p className="text-gray-700 mb-8 text-xl">
-          Butt You can do much better... maybe... if you try... eventually...
+          Butt you can do much better... maybe... if you try... eventually...
         </p>
         <Image
           src="/lazycat.gif"
@@ -110,8 +111,8 @@ export default function Home() {
         </div>
         <div className="mt-6 text-sm text-gray-500">
           Remember: The easiest way to solve a problem is to let someone else do
-          it for you. That&apos;s the true spirit of a lazy developer! or just
-          use chatgpt lol to guide you 🤭
+          it for you. That&apos;s the true spirit of a lazy developer! Or just
+          use ChatGPT lol to guide you 🤭
         </div>
       </div>
     </div>
